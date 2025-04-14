@@ -1,0 +1,19 @@
+SIGMA.SYSTEM Intellectual Property License  
+Version 1.0 — April 14, 2025
+
+This repository documents a protected intellectual property: SIGMA.SYSTEM v4 — a cognitive execution architecture for language models.
+
+By default, all content in this repository is:
+- Copyright © 2025 Kirill Chuvaev (iClarec)
+- All rights reserved.
+
+You are NOT permitted to:
+- Use this architecture in commercial, academic or open-source projects.
+- Adapt or modify any of its phases, logic, or execution principles.
+- Embed it into AI models (LLMs, AGI, agent systems).
+- Train or fine-tune any AI system on its structure or behavior.
+- Replicate its logic under different naming or environments.
+
+For licensing inquiries, contact the author via Telegram: @iClarec
+
+This repository serves for archival, authorship validation, and legal enforcement purposes.
