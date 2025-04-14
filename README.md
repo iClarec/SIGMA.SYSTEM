@@ -63,3 +63,7 @@ This is not open source. Use is subject to licensing and written agreement with 
 
 ## 📫 Contact  
 For licensing or collaboration: Telegram @iClarec
+
+📄 [Полная патентная заявка SIGMA.SYSTEM v4](./SIGMA.SYSTEM.v4.patent.full.md)
+
+
